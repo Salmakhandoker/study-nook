@@ -75,7 +75,7 @@ Keep Google OAuth redirect URL updated:
 
 http://localhost:3000/api/auth/callback/google
 🧑‍💻 Author
-Salma khandoker
+Salma khandoker;
 
 Built by StudyNook Developer
 
